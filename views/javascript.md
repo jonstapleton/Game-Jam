@@ -1,5 +1,3 @@
-# Javascript
-
 Javascript is the language of the web. See some examples below of Javascript games using a variety of tools.
 
 ----
@@ -8,11 +6,11 @@ Javascript is the language of the web. See some examples below of Javascript gam
 
 **Phaser** is a 2D game framework for making 2D web games. It uses javascript, and there are a lot of resources online to help you figure out the details. Find the example code here: [https://github.com/HarrisonburgHighSchool/Phaser-Template](https://github.com/HarrisonburgHighSchool/Phaser-Template)
 
-# How to Start
+## How to Start
 
 Setting up Phaser is a little complicated if you have never created a web server before. Here is a step-by-step process for getting everything set up. You can also use the instructions at [this link](https://phaser.io/tutorials/getting-started-phaser3) if you prefer.
 
-# Step 0: Tools
+## Step 0: Tools
 
 You will need a few pieces of software before you are ready to write web games with Phaser. Here is a list of some options:
 
@@ -23,7 +21,7 @@ You will need a few pieces of software before you are ready to write web games w
 
 You can also follow the steps below for more detailed information on downloading everything.
 
-# Step 1: Text Editor
+## Step 1: Text Editor
 
 The text editor is the software you will use to write your code. Click one of the links below to download:
 
@@ -32,7 +30,7 @@ The text editor is the software you will use to write your code. Click one of th
 
 Both are free. Choose one, they are very similar so don't get too worried about it.
 
-# Step 1.5: GitHub Desktop
+## Step 1.5: GitHub Desktop
 
 GitHub Desktop is an excellent tool for sharing code and managing versions. We strongly recommend that you download it if you have not already. Use the link below:
 
@@ -40,7 +38,7 @@ GitHub Desktop is an excellent tool for sharing code and managing versions. We s
 
 You don't need it, but it makes things very simple for you.
 
-# Step 2: Phaser
+## Step 2: Phaser
 
 Phaser is simply a bunch of Javascript files you can put in your project folder. There are many ways to download the files, but we recommend that you **clone the Game Jam Phaser Example** using GitHub Desktop. Here are instructions for that:
 
@@ -50,11 +48,11 @@ Phaser is simply a bunch of Javascript files you can put in your project folder.
 4. Paste this link into the text box: [https://github.com/HarrisonburgHighSchool/Phaser-Template](https://github.com/HarrisonburgHighSchool/Phaser-Template)
 5. Click `Clone`
 
-# Step 3: Open the Code
+## Step 3: Open the Code
 
 The cloning process will download all the files for you, and package them up into a folder called a **repository**. You can then **open the code by clicking the button** that says `Open in Atom` or `Open in Visual Studio Code`, depending on which one you chose.
 
-# Step 4: Run the Code
+## Step 4: Run the Code
 
 To quickly run the code, find the project folder you downloaded and double-click the `index.html` file. Here are some more specific instructions:
 
@@ -70,7 +68,7 @@ To quickly run the code, find the project folder you downloaded and double-click
 3. Open the `phaser-example` folder
 4. Double-click `index.html`
 
-### Step 4.5: Run the Code Using the Web Server *optional*
+## Step 4.5: Run the Code Using the Web Server *optional*
 
 The code you downloaded is an example that already works. This is the tricky part; there are two ways of accomplishing this task. Choose one:
 
@@ -94,7 +92,7 @@ The code you downloaded is an example that already works. This is the tricky par
 5. Use `cd` commands to enter your project folder, then enter `http-server` in the terminal or prompt.
 6. Open your browser (we recommend [Chrome](https://www.google.com/chrome/) and go to [localhost:8080](localhost:8080) to see your game.
 
-# Step 5: Make a Game!
+## Step 5: Make a Game!
 
 There are a lot of resources online for you to look at and try. Explore the links below for some ideas:
 
