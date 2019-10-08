@@ -10,7 +10,7 @@ We want everyone to have a chance to show their skills in a language they are co
 
 # Table of Contents
 
-* [Javascript]()
+* [Javascript](https://staplejm.github.io/Game-Jam/views/javascript)
   * Phaser
   * P5js
   * The House
