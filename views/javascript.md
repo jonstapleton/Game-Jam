@@ -64,8 +64,9 @@ To quickly run the code, find the project folder you downloaded and double-click
 
 #### With GitHub Desktop
 
-1. Go to `Repository > Show in Explorer` (for Mac, `Repository > Show in Finder`)
-2. Double-click the `index.html` file
+1. Open **GitHub Desktop**
+2. Go to `Repository > Show in Explorer` (for Mac, `Repository > Show in Finder`)
+3. Double-click the `index.html` file
 
 #### Without GitHub Desktop
 
@@ -115,6 +116,129 @@ Here are some games made with **Phaser**:
 * Sasquash: [http://www.davidbrind.co.uk/toemv1.0/index.html](http://www.davidbrind.co.uk/toemv1.0/index.html)
 * Hexagonia: [https://play.google.com/store/apps/details?id=com.spa.hexagonia](https://play.google.com/store/apps/details?id=com.spa.hexagonia)
 * Ramp Lab: [http://www.kongregate.com/games/toweld/ramp-lab](http://www.kongregate.com/games/toweld/ramp-lab)
+
+----
+
+# P5js
+
+**P5js** is a Javascript framework for making visual and sonic art with code. It is very easy to get started; there are two methods:
+
+### Method 1: The P5js Web Editor
+
+P5js has a web editor, which means you can write and test code on their website and download the project later. This is the easiest way to get started.
+
+1. Go to [https://editor.p5js.org/](https://editor.p5js.org/)
+2. Press the `Play` button in the upper left corner to test the code!
+
+This is the best way to get familiar with P5js. If you are used to writing and testing Javascript using a text editor and your browser, use **Method 2:**
+
+### Method 2: Using a Text Editor
+
+You can also edit code offline using a text editor, and testing code in your browser. This is a little more complicated, and we recommend this method only if you are familiar with writing and testing Javascript using your web browser.
+
+### Step 0: Tools
+
+You will need a few pieces of software before you are ready to use P5js outside of the web editor. Here is a list of some options:
+
+1. A text editor (like [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)
+2. The [P5js library](https://p5js.org/download/)
+3. [GitHub Desktop](https://desktop.github.com/) *optional*
+
+You can also follow the steps below for more detailed information on downloading everything.
+
+### Step 1: Text Editor
+
+The text editor is the software you will use to write your code. Click one of the links below to download:
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+
+Both are free. Choose one, they are very similar so don't get too worried about it.
+
+### Step 1.5: GitHub Desktop
+
+GitHub Desktop is an excellent tool for sharing code and managing versions. We strongly recommend that you download it if you have not already. Use the link below:
+
+* [GitHub Desktop](https://desktop.github.com/)
+
+You don't need it, but it makes things very simple for you.
+
+### Step 2: P5js
+
+Next, you need to download a P5js template to get started with. There are several ways to do this. The easiest is to download the [P5js Template](https://github.com/HarrisonburgHighSchool/p5-starter) repository and use GitHub Desktop to **clone** it to your computer. Here are some detailed steps:
+
+#### Method 1: With GitHub Desktop
+
+1. Open **GitHub Desktop**
+2. Click `Clone a Repository` (if you don't see a button, go to `File > Clone a Repository`)
+3. Click the `URL` tab
+4. Paste this link into the text box: [https://github.com/HarrisonburgHighSchool/p5-starter](https://github.com/HarrisonburgHighSchool/p5-starter)
+5. Click `Clone`
+
+This process downloads all the required files to your computer.
+
+#### Method 2: Without GitHub Desktop, Downloading a Web Project
+
+1. Go to [https://editor.p5js.org/](https://editor.p5js.org/)
+2. Click `Log In` in the top-right corner of the screen
+3. Log in with a Google or GitHub account, or create an account.
+4. Back in the editor window, go to `File > Save`
+5. Then, click `File > Download`
+6. The computer will download a 'zip' file with the library and `sketch.js` file all packaged up for you
+7. Extract the files from the zip file, and then open the project folder in your text editor
+
+Run the code by following these steps:
+
+1. Open your the File Explorer (Windows) or Finder (Mac)
+2. Search for the folder containing your project files
+3. Open the project folder
+4. Double-click `index.html`
+
+The code will open in your browser, and you are good to go!
+
+### Step 3: Editing the Code
+
+To start, try pasting this example in to your editor. If you are not using the web editor, edit the `sketch.js` file.
+
+```javascript
+var x = 20;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  x = x + 1;
+  ellipse(x, 20, 10);
+}
+```
+
+The program runs in this order:
+
+1. First, all the code inside the `setup()` function (between the `{` and `}` after `function setup()`) runs in order
+2. Then, all the code inside the `draw()` function runs in order.
+3. Then, the code inside the `draw()` function repeats
+4. ... and repeats
+5. ... and repeats
+6. ... and repeats
+7 ...
+
+The `draw()` function repeats over and over again forever, until you close the browser window or click the `Stop` button in the top-left corner of the browser window (if you are using the web editor).
+
+### Resources
+
+Here are some resources to get you started using **P5js**:
+
+* [Coding Train Tutorial Videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) *highly recommended*
+* [Coding Train Text Tutorials](https://thecodingtrain.com/Tutorials/)
+* [P5js Official Tutorials](https://p5js.org/learn/)
+* [Happy Coding P5js Tutorials](https://happycoding.io/tutorials/p5js/)
+* [Beginner P5js](https://blog.kadenze.com/creative-technology/p5-js-crash-course-recreate-art-you-love/)
+
+### Demos
+
+This site is the best place to find tons of examples of art made with P5js: [https://www.openprocessing.org/browse/#](https://www.openprocessing.org/browse/#)
+
 
 ----
 
