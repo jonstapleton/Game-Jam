@@ -15,8 +15,8 @@ We want everyone to have a chance to show their skills in a language they are co
   * P5js
   * The House
 * [Lua]()
- * Love2D
- * Pico-8
+  * Love2D
+  * Pico-8
 * [Unity]()
 * [Python]()
   * Pygame
