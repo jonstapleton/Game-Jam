@@ -242,4 +242,43 @@ This site is the best place to find tons of examples of art made with P5js: [htt
 
 ----
 
+# The House
+
+The house is a very restrictive Javascript framework designed to help you make interactive fiction projects. Follow the steps below to download and test out the framework for yourself:
+
+### Step 0: Tools
+
+You will need a few pieces of software before you are ready to use P5js outside of the web editor. Here is a list of some options:
+
+1. A text editor (like [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)
+2. The [House source code]https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction)
+3. [GitHub Desktop](https://desktop.github.com/) *optional*
+
+You can also follow the steps below for more detailed information on downloading everything.
+
+### Step 1: Text Editor
+
+The text editor is the software you will use to write your code. Click one of the links below to download:
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+
+Both are free. Choose one, they are very similar so don't get too worried about it.
+
+### Step 1.5: GitHub Desktop
+
+GitHub Desktop is an excellent tool for sharing code and managing versions. We strongly recommend that you download it if you have not already. Use the link below:
+
+* [GitHub Desktop](https://desktop.github.com/)
+
+You don't need it, but it makes things very simple for you.
+
+### Step 2: The House Source Code
+
+You can download the source code for **The House** from GitHub. Here are some detailed steps for downloading the project:
+
+#### Method 1: With GitHub Desktop
+
+1. Open **GitHub Desktop**
+2. 
 
