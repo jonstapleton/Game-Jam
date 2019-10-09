@@ -280,5 +280,45 @@ You can download the source code for **The House** from GitHub. Here are some de
 #### Method 1: With GitHub Desktop
 
 1. Open **GitHub Desktop**
-2. 
+2. Click `Clone a Repository` (if you don't see a button, go to `File > Clone a Repository`)
+3. Click the `URL` tab
+4. Paste this link into the text box: [https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction](https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction)
+5. Click `Clone`
+
+To **edit your code**, follow these steps:
+
+1. Open **GitHub Desktop**
+2. Go to `Repository > Open in Atom` or `Repository > Open in Visual Studio Code`
+3. Make changes to the `main.js` file
+
+To **run your code**, follow these steps:
+
+1. Open **GitHub Desktop**
+2. Go to `Repository > Show in Explorer` (Windows) or `Repository > Show in Finder` (Mac)
+3. Double-click the `index.html` file
+
+#### Method 2: Without GitHub Desktop
+
+1. Go to the project GitHub page: [https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction](https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction)
+2. Click the green `Clone or Download` button in the upper right-hand corner
+3. Choose `Download ZIP`
+4. Extract the zipped files that downloaded to your computer
+
+To **edit your code**, follow these steps:
+
+1. Find your extracted folder containing the project files
+2. Open the folder in your text editor
+3. Make changes to the `main.js` file
+
+To **run your code**, follow these steps:
+
+1. Find your extracted folder containing the project files using Finder or the File Explorer
+2. Open the project folder
+3. Double-click on `index.html`
+
+### Resources
+
+Check out the [House Documentation](https://github.com/HarrisonburgHighSchool/The-House-An-Interactive-Fiction/blob/master/README.md) for information on how to add rooms and other things to the game.
+
+----
 
