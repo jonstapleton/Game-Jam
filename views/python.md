@@ -3,7 +3,7 @@ Python is a popular language for machine learning and cybersecurity, but it's al
 # Table of Contents
 
 * [PyGame](#pygame)
-* Tale(#tale)
+* [Tale](#tale)
 
 ----
 
@@ -139,3 +139,12 @@ GitHub Desktop is an excellent tool for sharing code and managing versions. We s
 You don't need it, but it makes things very simple for you.
 
 ### Resources
+
+Check out the resources below to get started with **Tale**:
+
+* [Tale Informational Site](https://tale.readthedocs.io/en/latest/)
+* [Text Adventure Tutorial](https://www.youtube.com/watch?v=DEcFCn2ubSg)
+* [Advanced Interactive Fiction Tutorial](http://christianthompson.com/node/36)
+* [How to Write a Text Adventure](https://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/)
+
+----
