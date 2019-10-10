@@ -18,19 +18,17 @@ We want everyone to have a chance to show their skills in a language they are co
   * Love2D
   * Pico-8
 * [Unity](https://staplejm.github.io/Game-Jam/views/unity)
-* [Python]()
+* [Python](https://staplejm.github.io/Game-Jam/views/python)
   * Pygame
   * Tale
-* [Blocks]()
+* [Blocks](https://staplejm.github.io/Game-Jam/views/blocks)
   * Scratch
   * App Lab
-* [Other Tools]()
+* [Other Tools](https://staplejm.github.io/Game-Jam/views/other-tools)
   * Twine
-* [Assets & Art]()
-  * Creating Assets
-    * Sound
-    * Music
-    * Art
-  * Open Game Art
+* [Assets & Art](https://staplejm.github.io/Game-Jam/views/assets)
+  * Art
+  * Sound Effects
+  * Music
 
 ----
