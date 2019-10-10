@@ -15,8 +15,8 @@ Pico-8 is a virtual console that features a code editor, sprite creator, and sev
 
 Here are some games made with Pico-8:
 
-* [Celeste]()
-* 
+* [Celeste](https://www.lexaloffle.com/bbs/?tid=2145)
+* [Community Playlist](https://www.lexaloffle.com/bbs/?cat=7&carts_tab=1&#sub=2&mode=carts)
 
 ### Getting Set Up
 
@@ -68,15 +68,17 @@ Now that you are set up, go check out some games made with Pico-8.
 Go to the black console screen in Pico-8. Type `splore` and hit `Enter`. You will be able to load and run other games made with Pico-8 on this screen. You can even look at the code! Check out the following resources for information on how to use Pico-8 to make games:
 
 * [Build a Retro Game with Pico-8](https://thenewstack.io/retro-game-pico-8-basics/)
-* 
+* [Pico-8 for Beginners Video Playlist](https://www.youtube.com/watch?v=NOcZonu65hE&list=PLB_hJy2NGP0JsFFpEJpe2Wb-k7QShZkGX)
+* [Game Jam Pico-8 Library]()
+* [Top-Down Adventure Tutorial](https://www.lexaloffle.com/bbs/?tid=35135)
+* [Pico-8 Community](https://www.lexaloffle.com/bbs/?cat=70
+* [Pico-8 Official Resources](https://www.lexaloffle.com/pico-8.php?page=resources)
 
 ----
 
 # Love2D
 
 **Love2D** is a Lua framework for creating games. It is used by many amateur and indie developers as a tool for making 2D games. Here are some games made with Love2D:
-
-### Demos
 
 ### Getting Started
 
@@ -89,3 +91,66 @@ You will need to download a few things to begin making games with Love2D. Here's
 
 Follow the steps below for details on setting up Love2D:
 
+### Step 0: Tools
+
+You will need a few pieces of software before you are ready to make games with Love2D. Here is a list of some options:
+
+1. A text editor (like [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)
+2. The [Love2D Program](https://love2d.org/)
+3. An extension for your text editor
+4. [GitHub Desktop](https://desktop.github.com/) *optional*
+
+You can also follow the steps below for more detailed information on downloading everything.
+
+### Step 1: Text Editor
+
+The text editor is the software you will use to write your code. Click one of the links below to download:
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+
+Both are free. Choose one, they are very similar so don't get too worried about it.
+
+### Step 1.5: GitHub Desktop
+
+GitHub Desktop is an excellent tool for sharing code and managing versions. We strongly recommend that you download it if you have not already. Use the link below:
+
+* [GitHub Desktop](https://desktop.github.com/)
+
+You don't need it, but it makes things very simple for you.
+
+### Step 2: Download Love2D
+
+1. Go to: [https://love2d.org/](https://love2d.org/)
+2. Download the appropriate version for your machine.
+3. Follow the prompts to finish installation
+
+### Step 3: Install the extension in your text editor
+
+You need to install an extension in your text editor to streamline the game creation process with Love2D
+
+**Instructions for Atom**
+
+1.
+
+**Instructions for Visual Studio Code**
+
+1.
+
+### Step 4: Download the Example or Start Your Project
+
+You can either set up your own project folder from scratch or download the example from GitHub using GitHub Desktop
+
+**With GitHub Desktop**
+
+1.
+
+**Without GitHub Desktop**
+
+1.
+
+### Resources
+
+* 
+
+----
