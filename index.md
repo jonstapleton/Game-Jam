@@ -14,10 +14,10 @@ We want everyone to have a chance to show their skills in a language they are co
   * Phaser
   * P5js
   * The House
-* [Lua]()
+* [Lua](https://staplejm.github.io/Game-Jam/views/lua)
   * Love2D
   * Pico-8
-* [Unity]()
+* [Unity](https://staplejm.github.io/Game-Jam/views/unity)
 * [Python]()
   * Pygame
   * Tale
